@@ -1,3 +1,5 @@
+name: VM Container Demo
+on: [push]
 jobs:
   vm:
     runs-on: ubuntu-latest
